@@ -1,11 +1,11 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import Contactanos from './login'
+import Registro from './Registro'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Contactanos />
+    <Registro />
   </React.StrictMode>
 )
  
