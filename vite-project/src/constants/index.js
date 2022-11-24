@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, User, RightParentheses, LeftParentheses, nummol, subind, alcohol, calor  } from "../assets";
 
 export const navLinks = [
   {
@@ -16,6 +16,17 @@ export const navLinks = [
   {
     id: "clients",
     title: "Contactanos",
+  },
+];
+
+export const navLinksCal = [
+  {
+    id: "username",
+    title: " Username",
+  },
+  {
+    id: "User",
+    icon: User,
   },
 ];
 
@@ -175,6 +186,33 @@ export const socialMedia = [
     id: "social-media-4",
     icon: linkedin,
     link: "https://www.linkedin.com/",
+  },
+];
+
+export const signos = [
+  {
+    id: "LeftParentheses",
+    icon: LeftParentheses,
+  },
+  {
+    id: "RightParentheses",
+    icon: RightParentheses,
+  },
+  {
+    id: "nummol",
+    icon: nummol,
+  },
+  {
+    id: "subind",
+    icon: subind,
+  },
+  {
+    id: "alcohol",
+    icon: alcohol,
+  },
+  {
+    id: "calor",
+    icon: calor,
   },
 ];
 

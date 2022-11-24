@@ -26,6 +26,14 @@ import people03 from "./people03.png";
 import Contacto from "./Contacto.png";
 import Dolar from "./Dolar.png";
 import Check from "./Check.svg";
+import User from "./User.svg";
+import usericon from "./usericon.png";
+import LeftParentheses from "./LeftParentheses.svg";
+import RightParentheses from "./RightParentheses.svg";
+import nummol from "./nummol.svg";
+import subind from "./subind.svg";
+import alcohol from "./alcohol.svg";
+import calor from "./calor.svg";
 
 export {
   airbnb,
@@ -56,4 +64,12 @@ export {
   Contacto,
   Dolar,
   Check,
+  User,
+  usericon,
+  LeftParentheses,
+  RightParentheses,
+  nummol,
+  subind,
+  alcohol,
+  calor,
 };

@@ -11,6 +11,9 @@ import Contactos from "./Contactos";
 import Acerca from "./Acerca";
 import Precios from "./Precios";
 import PlanCard from "./PlanCard";
+import Navbarcal from "./Navbarcal";
+import CalculadoraForm from "./CalculadoraForm";
+import FooterCal from "./FooterCal";
 export {
   Navbar,
   Billing,
@@ -25,4 +28,7 @@ export {
   Acerca,
   Precios,
   PlanCard,
+  Navbarcal,
+  CalculadoraForm,
+  FooterCal,
 };
